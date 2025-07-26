@@ -154,10 +154,13 @@ Here you will see the list of all the tasks you have created. Read the task here
 To update the existing task, you can update it using their id. For example, if we want to update our first task and the id of the first task is 1.then the API-end point will be.
 http://localhost:8000/api/1/
 ![Image Alt](https://github.com/Nikhitha999-nikki/ToDo_Django_RestApi/blob/3c24522786f2c2cd1d9d3e6e7ae6f4135f3eef2c/List%20To%20Do%20%E2%80%93%20Django%20REST%20framework%20-%20Google%20Chrome%207_26_2025%209_19_49%20AM.png)
+ We can Add in Administration also
+![Image Alt](https://github.com/Nikhitha999-nikki/ToDo_Django_RestApi/blob/4ca86750efa70a4463acc717f1db7dc63eef234a/List%20To%20Do%20%E2%80%93%20Django%20REST%20framework%20-%20Google%20Chrome%207_26_2025%209_15_00%20AM.png)
+
 To create a post, the API-end point is: http://localhost:8000/api/create
 ![Image Alt](https://github.com/Nikhitha999-nikki/ToDo_Django_RestApi/blob/3c24522786f2c2cd1d9d3e6e7ae6f4135f3eef2c/List%20To%20Do%20%E2%80%93%20Django%20REST%20framework%20-%20Google%20Chrome%207_26_2025%209_20_17%20AM.png)
 Now the last part is to Delete the task. let’s suppose you have to delete the first task. So the API-end point would be: http://localhost:8000/api/delete/1
 ![Image Alt](https://github.com/Nikhitha999-nikki/ToDo_Django_RestApi/blob/3c24522786f2c2cd1d9d3e6e7ae6f4135f3eef2c/List%20To%20Do%20%E2%80%93%20Django%20REST%20framework%20-%20Google%20Chrome%207_26_2025%209_22_29%20AM.png)
 We have now completed the CRUD operation in the TO-DO Rest API using Django Rest Framework.
-
+![Image Alt](https://github.com/Nikhitha999-nikki/ToDo_Django_RestApi/blob/4ca86750efa70a4463acc717f1db7dc63eef234a/List%20To%20Do%20%E2%80%93%20Django%20REST%20framework%20-%20Google%20Chrome%207_26_2025%209_21_23%20AM.png)
 Thank you.
