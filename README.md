@@ -73,17 +73,6 @@ We have now completed the CRUD operation in the TO-DO Rest API using Django Rest
 
 
 
-🌐 API Behavior
-
-
-  Endpoint	    Method	         Action	     Description
-  
-/api/create/	   POST	   Create Task	       Adds a new To-Do item
-
-/api/create/	   GET	  ❌ Not Allowed	     Returns 405 Method Not Allowed
-
-/admin/	         GET	   View Admin Panel	   Manage To-Dos through admin backend
-
 
 
 🛠 Tech Stack
